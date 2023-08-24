@@ -10,7 +10,7 @@ sections:
     button:
       label: Get Started
       url: /
-      theme: default
+      theme: ''
     image:
       src: /vercel.svg
       alt: Stackbit Shapes
